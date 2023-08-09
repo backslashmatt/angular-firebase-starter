@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sustainable-trips": {
+      "hosting": {
+        "test-app": [
+          "sustainable-trips"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sustainable-trips"
+  }
+}

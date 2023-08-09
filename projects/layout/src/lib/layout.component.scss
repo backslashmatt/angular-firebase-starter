@@ -1,0 +1,23 @@
+.container {
+  height: 95vh;
+}
+
+.sidenav-content {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidenav {
+  min-width: 10%;
+  box-shadow: darkgray 1px 0 10px;
+}
+
+.no-click {
+  pointer-events: none;
+}
+
+.right-align {
+  text-align: center;
+}
